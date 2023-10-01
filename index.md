@@ -19,3 +19,9 @@ This is a code:
 ```python
 str1 = "hello world"
 ```
+
+This is the task lists:
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
